@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="120" viewBox="0 0 320 120" role="img" aria-labelledby="title desc">
-  <title id="title">geniee-sfa-assets test image</title>
-  <desc id="desc">GitHub Pages公開確認用のダミー画像</desc>
-  <rect width="320" height="120" fill="#eef2ff" />
-  <rect x="16" y="16" width="288" height="88" rx="12" fill="#4f46e5" />
-  <text x="160" y="68" fill="#ffffff" font-family="sans-serif" font-size="20" text-anchor="middle">Pages test image</text>
-</svg>
